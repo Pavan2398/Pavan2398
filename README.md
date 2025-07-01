@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Pavan Kumar <br><br>👀 I’m interested in problem solving, web development, AI ML<br><br>🌱 I’m currently learning web technologies <br><br>📫 How to reach me bodlapatipavan@gmail.com<br><br>😄 Pronouns: He/Him
+👋 Hi, I’m Pavan Kumar <br>👀 I’m interested in problem solving, web development, AI ML<br>🌱 I’m currently learning web technologies <br>📫 How to reach me bodlapatipavan@gmail.com<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
